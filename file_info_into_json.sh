@@ -78,4 +78,5 @@ do
             sync_data $new_file
         fi
     done
+    sleep 1
 done
